@@ -58,5 +58,4 @@ function removeItem(data)
     localStorage.setItem(localStorageKey,JSON.stringify(values))
     showValues()
 }
-
 showValues()
